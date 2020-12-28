@@ -15,11 +15,7 @@ setup(name='custom_study',
       author='Chris Rose',
       license='MIT',
       packages=['custom_study'],
-      install_requires=[
-          'django'
-      ],
       zip_safe=False,
-      keywords=['django', 'admin', 'theme', 'interface', 'menu', 'navigation'],
       include_package_data=True,
       classifiers=[
           'Development Status :: 5 - Production/Stable',
